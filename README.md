@@ -6,7 +6,7 @@
 - quero passar para ciências da computação
 - me seg no instagram @luo.lm_
 
-## NÃO ABRA O CÓDIGO DESSE REPOSITÓRIO
+## não veja as recentes commits no código deste repositório
 <!--
 
 aqui esta gojo satoru em c++:
