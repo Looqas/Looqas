@@ -1,4 +1,5 @@
 ##  Bye Bye 🤫🧏🏻‍♂️
+não abra o "code" porfavor kjkkj
 <!--
 **NÃO TEM O QUE VER AQUI POR FAVOR VÁ EMBORA** 
 
@@ -19,7 +20,7 @@ aqui esta gojo satoru em c++:
 int main() {
     cv::Mat image = cv::imread("gojo_satoru.jpg", cv::IMREAD_GRAYSCALE);
     if (image.empty()) {
-        std::cerr << "i feel so sigma" << std::endl;
+        std::cerr << "I feel so sigma" << std::endl;
         return -1;
   }
 }
