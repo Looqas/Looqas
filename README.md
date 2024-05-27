@@ -13,7 +13,7 @@ não abra o "code" porfavor kjkkj
 ⠉⠁⠀⠀⠀⠀⠀⠸⠇⠀⠀⠀⠀
 
 meu nome é lucas
-eu faço `programa`
+eu faço programa
 estou no 2ºA
 quero passar para ciências da computação
 aqui esta gojo satoru em c++:
