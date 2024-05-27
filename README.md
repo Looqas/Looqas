@@ -1,22 +1,14 @@
 ##  Bye Bye 🤫🧏🏻‍♂️
-não abra o "code" porfavor kjkkj
+
+- meu nome é lucas
+- eu faço programa
+- sou estudante do ensino médio
+- quero passar para ciências da computação
+- me seg no instagram @luo.lm_
+
+![](https://tenor.com/bvkBc.gif)
 <!--
-**NÃO TEM O QUE VER AQUI POR FAVOR VÁ EMBORA** 
 
-⣴⡿⠶⠀⠀⠀⣦⣀⣴⠀⠀⠀⠀
-⣿⡄⠀⠀⣠⣾⠛⣿⠛⣷⠀⠿⣦
-⠙⣷⣦⣾⣿⣿⣿⣿⣿⠟⠀⣴⣿
-⠀⣸⣿⣿⣿⣿⣿⣿⣿⣾⠿⠋⠁
-⠀⣿⣿⣿⠿⡿⣿⣿⡿⠀⠀⠀⠀
-⢸⣿⡋⠀⠀⠀⢹⣿⡇⠀⠀⠀⠀
-⣿⡟⠀⠀⠀⠀⠀⢿⡇⠀⠀⠀⠀
-⠉⠁⠀⠀⠀⠀⠀⠸⠇⠀⠀⠀⠀
-
-meu nome é lucas
-eu faço programa
-me seg no instagram @luo.lm_
-estou no 2ºA
-quero passar para ciências da computação
 aqui esta gojo satoru em c++:
 int main() {
     cv::Mat image = cv::imread("gojo_satoru.jpg", cv::IMREAD_GRAYSCALE);
